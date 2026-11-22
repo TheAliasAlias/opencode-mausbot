@@ -1,0 +1,36 @@
+{
+  "name": "opencode-mausbot",
+  "version": "0.1.0",
+  "description": "A roster of AI bots for OpenCode Desktop: each bot is a real OpenCode session with its own personality, model, memory, folder and approvals.",
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./gui-experimental": "./gui-experimental.cjs"
+  },
+  "files": [
+    "index.js",
+    "gui-experimental.cjs",
+    "README.md",
+    "LICENSE",
+    "NOTICE",
+    "SECURITY.md",
+    "docs"
+  ],
+  "keywords": [
+    "opencode",
+    "opencode-plugin",
+    "bots",
+    "agents",
+    "desktop"
+  ],
+  "author": "TheAliasAlias",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheAliasAlias/opencode-mausbot.git"
+  },
+  "homepage": "https://github.com/TheAliasAlias/opencode-mausbot#readme",
+  "bugs": {
+    "url": "https://github.com/TheAliasAlias/opencode-mausbot/issues"
+  }
+}

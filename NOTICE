@@ -1,0 +1,14 @@
+MausBot for OpenCode Desktop
+Copyright 2026 TheAliasAlias
+
+This product is an independent community project. It is inspired by
+OpenMausBot:
+
+    https://github.com/milind-soni/OpenMausBot
+
+OpenMausBot is licensed under the Apache License, Version 2.0. MausBot does
+not include OpenMausBot source code and is not affiliated with, endorsed by,
+or sponsored by OpenMausBot or its maintainer.
+
+MausBot has no bundled runtime dependencies. It uses the plugin APIs provided
+by OpenCode Desktop.
