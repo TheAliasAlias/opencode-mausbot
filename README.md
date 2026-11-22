@@ -19,7 +19,7 @@ source code.
 
 ## What you get
 
-- **A Bots fold under Archive.** Rows show each bot's avatar, name, model and
+- **A Bots fold under [Archive](https://github.com/TheAliasAlias/opencode-desktop-archive).** Rows show each bot's avatar, name, model and
   live state (working, new, or idle). Each bot's current chat sits directly
   beneath it as a child row. Pin, edit, duplicate, reset or delete a bot from
   its `…` menu.
